@@ -1,0 +1,827 @@
+8445 veMeYvbaP YZaDaPM Afghanistan 36 Flu NO
+625 YHAfrQkLz SrnpWhA Afghanistan 37 SARS-1 YES 25-6-2011
+7704 mdE iHNtbAjrV Afghanistan 101 SARS-1 NO
+2840 nSIUdvHr SWSinG Afghanistan 102 COVID-19 NO
+4612 FjAA YTnqTGMgL Afghanistan 24 SARS-1 YES 17-9-2011
+9724 eer IgEz Afghanistan 28 COVID-19 NO
+6151 jqGrBlkj YsAUhDcocrg Afghanistan 27 SARS-1 YES 3-5-2005
+3716 EbRo klWDWCqs Afghanistan 68 Ebola NO
+5542 QivenmPWR VPo Afghanistan 17 SARS-1 YES 29-9-2014
+9185 xUcJF vcGDxY Afghanistan 50 COVID-19 YES 27-10-2018
+734 DuQthDFAY HWbTJSPq Afghanistan 74 COVID-19 NO
+268 hBF SPmxnfg Afghanistan 72 Cold YES 21-8-2009
+5479 gOWyVkrPAF eRvJjEDp Afghanistan 111 Η1Ν1 YES 22-10-2009
+3914 hoJXBGynTp wpb Afghanistan 73 Ebola NO
+4251 WDMfz pCqRtQUDnHI Afghanistan 31 SARS-1 YES 19-3-2006
+3649 eUj FgZJnUOVONP Afghanistan 100 COVID-19 NO
+8281 OufXzcnu JVfh Afghanistan 36 Η1Ν1 NO
+9882 QqRfHrSxSi dErfnsd Afghanistan 79 Ebola YES 3-5-2011
+3185 vQCZXchuoK HFX Afghanistan 1 Cold NO
+2845 Snxl AYvMta Afghanistan 3 Η1Ν1 NO
+2516 Qqb rEhTFDpebA Afghanistan 36 COVID-19 YES 4-5-2020
+3011 psbADfyTu rjJ Afghanistan 53 Ebola NO
+9780 JGhMBftIXDp MxcP Afghanistan 56 Cold NO
+7144 Whv oZHQldeHZV Afghanistan 35 Ebola NO
+1872 hqyQFttU GoTOio Afghanistan 71 SARS-1 NO
+1579 VVq coCYx Afghanistan 109 SARS-1 NO
+4001 OZtJkysb KAzha Afghanistan 14 Η1Ν1 NO
+8204 DvhfWqWtjYC nARTyodx Afghanistan 5 SARS-1 YES 15-5-2006
+7273 UiOdhNhSf ZHPdvVfn Afghanistan 0 SARS-1 NO
+692 NwUKuXG JJmkk Afghanistan 93 Ebola YES 24-3-2017
+9861 QFonCVIfZA jEgsY Afghanistan 16 COVID-19 YES 8-4-2014
+5573 hlgH wPENj Afghanistan 110 Η1Ν1 NO
+7708 qphy cWFiPQrYI Afghanistan 75 Cold YES 16-11-2014
+2940 UaKkEQM PrXqIay Afghanistan 105 COVID-19 YES 16-1-2006
+6861 IatubksE raVkfVH Afghanistan 48 Η1Ν1 NO
+2090 Jrr tgVlDadYE Afghanistan 118 COVID-19 NO
+7033 ZhGaI VLHs Afghanistan 68 Η1Ν1 NO
+8230 aneSIzIw sWEefvBYwMc Afghanistan 100 Η1Ν1 NO
+2486 XxP dBslYTNbqk Afghanistan 56 SARS-1 YES 7-5-2015
+1380 DvkO fiFJKS Afghanistan 70 Ebola NO
+5758 lCGxtAd EFJlZYsUSPK Afghanistan 20 Ebola NO
+8177 amOD BvgwGZ Afghanistan 108 Flu YES 9-10-2004
+7922 jDJoS ohiJoObHz Afghanistan 88 Η1Ν1 YES 13-4-2010
+6685 ZADHxOYlwU eoYDOerVO Afghanistan 49 Flu YES 25-8-2021
+3546 vQKRkpXTpbf EmgVHgqLmAy Afghanistan 37 SARS-1 NO
+1308 UmXLjY zOtJWrMzTUn Afghanistan 33 Ebola NO
+8494 fibj MkGzS Afghanistan 12 COVID-19 YES 28-2-2020
+1009 GOX ZZZewxM Afghanistan 97 Η1Ν1 NO
+3053 xVOP ldPwVVXdYgz Afghanistan 59 Ebola NO
+9291 jDbbrWkutOg hnnAVkZHG Afghanistan 24 SARS-1 YES 27-9-2017
+214 xWvmaxlEDJh xKjUHsvAn Afghanistan 28 Η1Ν1 YES 4-1-2006
+7662 eiVLMevhGn Oki Afghanistan 56 Cold YES 10-3-2014
+9485 gLLvD aljobFnB Afghanistan 95 Η1Ν1 YES 28-2-2017
+4976 IoIHanEKdVc WZNYWz Afghanistan 33 Cold YES 4-5-2005
+561 SMmufnpfMy hRACGIvD Afghanistan 67 COVID-19 YES 25-3-2004
+6293 GPrywAW rcxYXOj Afghanistan 98 Η1Ν1 YES 27-4-2002
+337 JJW kNSoiwKSr Afghanistan 27 COVID-19 NO
+3492 BjHsjNPpa htNgUnJ Afghanistan 109 Cold YES 2-9-2014
+7426 gEOoiCef NEsQqK Afghanistan 109 SARS-1 YES 5-11-2013
+5084 zlRixoK JClnmcR Afghanistan 24 SARS-1 NO
+2126 WbIOC AJQ Afghanistan 3 Cold YES 4-6-2002
+107 qgMo tcAhfjm Afghanistan 22 Cold YES 7-10-2017
+712 pOu RtJoYbHyLV Afghanistan 12 COVID-19 YES 23-10-2000
+21 NLcQP gXToETS Afghanistan 85 Ebola NO
+1124 zHzZkQBIJqM ePMXumC Afghanistan 112 COVID-19 NO
+9940 EYQhwI BHSRe Afghanistan 61 Ebola YES 30-3-2000
+2444 YuX kLyPPdxSws Afghanistan 27 Η1Ν1 NO
+3294 QONp PttLb Afghanistan 39 Flu YES 30-10-2001
+607 nhRHp CzPG Afghanistan 57 Ebola NO
+7593 AvZnqpENc vivyFymEa Afghanistan 104 Flu YES 24-9-2009
+9311 gyEsl nRzzhKWcCAB Afghanistan 80 Flu NO
+7395 SnCoc jvwCcqQOMbr Afghanistan 112 SARS-1 NO
+6409 qAKpAE vCqDdb Afghanistan 78 SARS-1 YES 17-1-2017
+2079 tIO TbF Afghanistan 113 Ebola YES 27-8-2004
+9146 nMOt fDOIXsP Afghanistan 80 Cold NO
+7149 JEE vho Afghanistan 54 Ebola NO
+2706 gjCOIxtDQ azNDAJ Afghanistan 85 Cold NO
+4660 YJtR oeTwC Afghanistan 99 SARS-1 YES 10-1-2005
+6563 fAsnlZAvuGx HdwN Afghanistan 9 Η1Ν1 NO
+6638 NfiuNLYJ ryHhOBuLvdC Afghanistan 59 Cold YES 4-7-2012
+9715 fuVzH RdVHtwBX Afghanistan 17 Ebola NO
+5550 lKQHWfPS XgOc Afghanistan 71 Flu YES 16-3-2019
+3682 eTutmkwr VquuFppI Afghanistan 13 Η1Ν1 YES 29-3-2012
+7448 EAQDqY qcWDjjSYreb Afghanistan 33 Cold NO
+5669 UAcrG BRke Afghanistan 10 SARS-1 NO
+8605 MgUC UhYAAY Afghanistan 12 Flu YES 17-10-2011
+218 aLIxtgqbsaW dhJqVaASK Afghanistan 115 Ebola YES 26-9-2017
+6058 LYDVuqf ndQ Afghanistan 13 Cold YES 27-7-2011
+7633 FuysrqN gJrhBmCTt Afghanistan 22 Cold YES 14-1-2012
+5830 YHMDlfMUjzR ADTnBt Afghanistan 92 Flu YES 18-4-2005
+2294 SUuqSnt vRkveB Afghanistan 80 Η1Ν1 YES 19-1-2010
+4157 SkWTgUuv tAJQpd Afghanistan 92 SARS-1 YES 2-9-2016
+1655 deGUsRKEV xuq Afghanistan 17 COVID-19 NO
+4682 EQZbgd FTUM Afghanistan 14 Flu NO
+1095 oTiYZmCVtn cWna Afghanistan 113 Ebola YES 15-11-2013
+6052 YCNmGJpm KrKsv Afghanistan 16 Cold YES 2-12-2011
+4385 bEyZaiNh GPQfMX Afghanistan 36 COVID-19 YES 13-5-2004
+8474 xooJPnrItrA kbfXmmRAnSv Afghanistan 42 SARS-1 YES 22-3-2005
+899 QXdwb RPXsGYFyt Afghanistan 45 Flu YES 29-11-2002
+5364 wlz QdD Afghanistan 89 SARS-1 YES 24-2-2008
+4699 pRxfUlz uWNGGDdFIpD Afghanistan 23 Η1Ν1 YES 1-7-2015
+4973 qXJDMmnTdy OzDzZgKFH Afghanistan 53 Η1Ν1 YES 22-2-2020
+6621 GIrtOldRg xLXdrFeUF Afghanistan 41 COVID-19 NO
+1468 KRM WzYv Afghanistan 61 Ebola YES 23-9-2021
+406 CVNTwqiCJo ZIfpFJ Afghanistan 113 Cold NO
+2790 NAGYBA TtOapDUtWX Afghanistan 76 Η1Ν1 YES 30-4-2012
+228 yjFxU eONCgJ Afghanistan 21 Flu NO
+2501 FFATfkvJR MsUkoza Afghanistan 33 Cold NO
+2206 fBhwO foflntovN Afghanistan 114 Cold YES 5-3-2005
+7987 WoTCKSMXO mZgqUEieCc Afghanistan 105 Ebola YES 3-5-2005
+2029 xPduxipyZN gXiznkXM Afghanistan 30 COVID-19 YES 16-1-2012
+8432 ApyfjvQMLQd HZcbodeCEko Afghanistan 36 COVID-19 YES 11-3-2017
+4113 gTsCTCsJ jYFfH Afghanistan 32 COVID-19 NO
+3387 eHWJR cNAz Afghanistan 111 COVID-19 YES 21-12-2006
+8380 hYywMGDErp RJItfwa Afghanistan 99 SARS-1 YES 16-11-2004
+9321 dhyMUF FUf Afghanistan 92 Ebola YES 6-4-2005
+8978 YGTg egH Afghanistan 39 SARS-1 YES 26-9-2004
+1415 jBlXnx vOEf Afghanistan 74 Cold YES 26-3-2009
+7850 yhuRmS vmXnINWtnT Afghanistan 27 Flu NO
+4367 hPzS vpWKzJoSEG Afghanistan 71 Η1Ν1 YES 4-3-2011
+7513 wPmGK ONvdbwJBjN Afghanistan 1 Flu NO
+2282 Who OHsQvvDAXnN Afghanistan 7 Η1Ν1 NO
+9883 uIAYlXchmh pRyw Afghanistan 32 COVID-19 NO
+3506 Uqghc uzRYxXCxDre Afghanistan 74 Flu YES 1-9-2003
+7037 lABnvTaim btdE Afghanistan 84 Ebola YES 4-9-2019
+3191 JOBi yJCxDPB Afghanistan 119 SARS-1 NO
+4815 fdJmn nQuvGFRdTE Afghanistan 105 Η1Ν1 YES 1-4-2003
+9432 httTHyqAv QSHCebhsgPF Afghanistan 42 COVID-19 NO
+3154 geEM CmtnSRWvy Afghanistan 55 Η1Ν1 NO
+4112 vgwk pvEkPc Afghanistan 68 COVID-19 YES 11-4-2014
+4908 GpKIUY XnRHcuBCqo Afghanistan 76 SARS-1 NO
+6718 MEkTpnQ xmwrtsX Afghanistan 26 Cold NO
+6456 fjWFERLMEL wbwMp Afghanistan 117 Ebola NO
+4245 gsnFklODNC acKev Afghanistan 14 Cold YES 16-11-2014
+5976 YdfhBmlzv DPfR Afghanistan 107 COVID-19 YES 22-11-2015
+3024 pWluxHezm JFFy Afghanistan 111 Ebola YES 27-9-2009
+3140 aUikIJ kZROmyCaVTX Afghanistan 12 Ebola YES 21-4-2011
+3169 GIqWHHwe hdm Afghanistan 105 COVID-19 NO
+9688 TGuUSQXGh ifsTVJTU Afghanistan 86 Η1Ν1 NO
+4345 NdJeJos OlQsDUGoOXB Afghanistan 9 Cold NO
+1413 HXczvRfxejS dadhuDPgD Afghanistan 93 Flu NO
+1783 kZFTHtV dGTynof Afghanistan 20 COVID-19 NO
+888 gizwMyO TmMzo Afghanistan 2 Η1Ν1 NO
+5005 gxyyyZQs xzB Afghanistan 12 SARS-1 NO
+1579 kUxolsvUAT GbRtFVZxGL Afghanistan 117 Η1Ν1 YES 6-10-2006
+2041 RPrb frWUuAAweCq Afghanistan 109 COVID-19 YES 10-8-2000
+6919 UXNLs YZceG Afghanistan 48 COVID-19 NO
+4519 wtyoVkka zEGVFE Afghanistan 96 Ebola YES 3-5-2013
+1560 rHuS ADnvI Afghanistan 98 COVID-19 NO
+2345 VbwUADBh PhPGUaqEhw Afghanistan 13 Ebola YES 14-10-2005
+2717 Hqz ofFlYpD Afghanistan 14 COVID-19 NO
+1979 tWbmhklR HwFlEJDns Afghanistan 42 Cold YES 13-1-2004
+2420 hjmCPVdG SyK Afghanistan 110 Η1Ν1 YES 15-6-2000
+1246 LJhqqtpjzw GfPmcYc Afghanistan 1 Cold NO
+9201 pIX uNArMiXU Afghanistan 108 SARS-1 YES 20-8-2019
+7287 gRyTUzUVD Lnfd Afghanistan 85 COVID-19 YES 15-1-2014
+1165 bpXOBx qwnamqVQyB Afghanistan 21 SARS-1 YES 22-1-2019
+7820 CaLiDfzzgmp bXKciwZh Afghanistan 34 Flu YES 13-11-2012
+8291 Yabgfy uMDFfOnpJ Afghanistan 48 Η1Ν1 YES 6-3-2002
+591 zULbKDVlY lrainA Afghanistan 54 COVID-19 NO
+9859 GPLcwvkQe tDAMfrh Afghanistan 50 SARS-1 YES 25-3-2013
+3287 Tlm kobVwDTzq Afghanistan 61 Η1Ν1 NO
+112 CWpokoCNeQy MPhhqbo Afghanistan 112 Cold YES 12-7-2003
+5791 NoGWFoM Gjrmi Afghanistan 23 Flu NO
+303 vUYBYDl Rlc Afghanistan 51 Ebola NO
+2416 LbLQTMK WTqmGTAbUi Afghanistan 0 Ebola YES 19-12-2011
+9189 SHlEFdhhS uNqGEmPEVM Afghanistan 119 Cold NO
+6093 Qcft fdRrDUBeYQs Afghanistan 80 Η1Ν1 NO
+4703 KPZboPTnsi lOrRJcpkv Afghanistan 85 Flu YES 23-4-2013
+6622 QkzkZp UqOYmlVmi Afghanistan 48 SARS-1 YES 3-1-2001
+6414 EsJLILDlANo yVbmHzjKjRV Afghanistan 78 Flu NO
+5063 glHBjyDSKV EUEBQpdP Afghanistan 84 COVID-19 NO
+7228 MvhkhiKnF zJmWAOlcbIy Afghanistan 23 Ebola YES 12-3-2010
+5342 yMThHXy JVfI Afghanistan 1 Η1Ν1 NO
+2496 uzl eIpadUtkcEC Afghanistan 95 Cold NO
+4023 pcQVlwlPtEL cSgHE Afghanistan 57 COVID-19 NO
+1481 rPkVwDKBC KayrKQQddI Afghanistan 115 SARS-1 NO
+8468 lwoWUz oxz Afghanistan 55 Η1Ν1 NO
+6574 XFPeqikrWEa JxUUwoAVuW Afghanistan 105 COVID-19 NO
+1317 bhhLuUy XHTB Afghanistan 58 SARS-1 NO
+2207 UdsoOujYeSr chq Afghanistan 95 Cold NO
+3946 yLXnBxXC xqF Afghanistan 33 Η1Ν1 NO
+2463 weLpI AUqzJGY Afghanistan 61 SARS-1 YES 5-10-2007
+155 eysFLNkknCu tQFZR Afghanistan 86 Η1Ν1 YES 27-1-2020
+4581 JYKtbUCQKP JJR Afghanistan 9 SARS-1 NO
+2071 QQhqFQfdP XaE Afghanistan 110 Flu NO
+5023 QzRrxphK iQSSiHTYQH Afghanistan 5 Flu NO
+2635 oVkZ hPSVhThH Afghanistan 87 COVID-19 NO
+379 WybOewcIQ rwxe Afghanistan 44 Ebola NO
+5026 yYp bEdTVniqi Afghanistan 4 Η1Ν1 NO
+9792 effxRFe UBTuAlrsn Afghanistan 48 Η1Ν1 NO
+1331 jSimrv THuREQvCyPG Afghanistan 4 Cold NO
+1223 UnLV pDiB Afghanistan 87 Flu NO
+2915 IqYge lRqmwiDt Afghanistan 89 SARS-1 NO
+5250 dus Ifsx Afghanistan 95 COVID-19 YES 5-10-2008
+3267 NYLqp DEDEDTK Afghanistan 15 Η1Ν1 YES 16-11-2003
+336 cJNJCiir GbgWzTzjhW Afghanistan 81 Cold NO
+1018 DtO TCEw Afghanistan 97 COVID-19 YES 15-5-2010
+5674 lpCcfqRTTcV GwUwp Afghanistan 97 Flu NO
+2104 UQdlBpITW GkI Afghanistan 47 Η1Ν1 YES 18-7-2004
+6866 mAeFTJbH BwLY Afghanistan 48 Ebola NO
+7506 paX Hsy Afghanistan 118 Cold NO
+154 rPL oTqgE Afghanistan 47 Η1Ν1 NO
+9636 XkI KVpjc Afghanistan 99 COVID-19 YES 9-10-2000
+7347 HWWAzAu dVxliPTR Afghanistan 3 SARS-1 NO
+5606 YAjdmTiQB KDIZ Afghanistan 42 Flu YES 2-5-2009
+2050 dinuA PoMZDWe Afghanistan 119 SARS-1 YES 4-3-2012
+1339 BAWKxtsCcZ wdMNyee Afghanistan 84 SARS-1 YES 4-10-2011
+1365 mfeXCwd pbmInJeOOc Afghanistan 35 Cold YES 30-2-2002
+8767 heBdsCMjTc AMVSRjVZw Afghanistan 54 Η1Ν1 NO
+267 mvEeMFd cgFdjDvxpYp Afghanistan 0 Flu NO
+7904 LTusUxTv LGtiK Afghanistan 38 Cold NO
+7846 aKMpSvsH YSaBGdPy Afghanistan 66 COVID-19 NO
+6107 KLp gGqhd Afghanistan 95 Ebola YES 13-12-2018
+5233 jxtZdIDaLQ vwmisVxg Afghanistan 72 COVID-19 NO
+3481 UZD JZNifhfROJ Afghanistan 45 SARS-1 NO
+1253 XmlMpqyPnB dilk Afghanistan 16 Cold NO
+9919 fCMg dKZFd Afghanistan 41 Ebola YES 11-11-2003
+4801 YMOLaYBdQX ouvQyFjyul Afghanistan 111 Η1Ν1 NO
+549 PCVMjdpRjZ Wob Afghanistan 27 Η1Ν1 YES 17-1-2011
+1912 IrCdQDM CkvIWblrhAL Afghanistan 83 COVID-19 YES 26-9-2006
+4093 CaZOhJVQlZ EVaNey Afghanistan 65 Cold YES 9-6-2014
+278 uTpCVVWgbH eZhNNZ Afghanistan 5 SARS-1 YES 19-9-2013
+9430 EfKhwsXnOH UnFapccgj Afghanistan 18 Η1Ν1 NO
+5593 odXGQuTN HHjsSvv Afghanistan 28 COVID-19 YES 2-10-2018
+62 FWuvUNnecA BBHRyxVW Afghanistan 71 Ebola YES 8-1-2018
+9173 QZzIc GEwkvFkJ Afghanistan 79 Ebola NO
+9129 upycYbRNw gNXmdZVNTs Afghanistan 60 Ebola NO
+5279 ahmTFin ZrbjWdZMSE Afghanistan 15 Ebola YES 1-5-2017
+3955 qhoFpDlUllN WGF Afghanistan 86 SARS-1 YES 16-2-2009
+8992 pByfxJ AcJrExugCEh Afghanistan 49 COVID-19 NO
+5643 yGMTdHsDgwL YxGzhIrV Afghanistan 98 SARS-1 NO
+3646 yytuFbapOAu wYhFTg Afghanistan 4 Cold YES 9-4-2016
+3840 VxziuYO MxmZxna Afghanistan 118 COVID-19 NO
+172 TwZkMDPFIvy hwNclMQQqcA Afghanistan 54 Flu YES 22-3-2005
+3131 lKitTk jYvnuFlrZN Afghanistan 110 Ebola YES 24-1-2015
+3233 yxxZKtY oUVcqm Afghanistan 94 SARS-1 YES 4-7-2005
+9322 sbIjIz JZIAERcu Afghanistan 97 SARS-1 NO
+8055 fCEzYspc LCHlr Afghanistan 49 Η1Ν1 NO
+1570 DAR bZIedTCT Afghanistan 93 Cold NO
+4624 QiQcTAnFrjm roq Afghanistan 71 Η1Ν1 YES 2-4-2004
+6217 DUId ZleRnoIdJ Afghanistan 108 SARS-1 YES 15-3-2006
+8037 Ueq xSzOHcJET Afghanistan 28 SARS-1 YES 18-10-2002
+2720 VJifJapgzW jZNpQiku Afghanistan 2 COVID-19 YES 28-8-2019
+2293 aPJjdXqkDOE IaRJOnSvNeq Afghanistan 88 SARS-1 YES 19-8-2000
+2740 GAmVC cRn Afghanistan 19 SARS-1 NO
+5860 oMVK IJpq Afghanistan 80 Cold NO
+1673 LIJQoS AIfCb Afghanistan 2 COVID-19 YES 15-7-2001
+6681 WpNAbiVnUP XKFSPvfMk Afghanistan 111 Ebola NO
+9555 XpEftQyFgM NGPaS Afghanistan 63 Ebola YES 19-8-2019
+5146 RYdwDUorCu QJGwsAzI Afghanistan 6 SARS-1 NO
+9496 fTbxV rlGbF Afghanistan 101 Flu NO
+8888 mqoRAKi LNzNt Afghanistan 17 Ebola NO
+9465 moLz iIdKwkxC Afghanistan 54 Ebola NO
+4901 RrQYVqilKX aFy Afghanistan 71 SARS-1 NO
+4719 bYiFkhEUnUr xISbia Afghanistan 80 SARS-1 NO
+3035 PqOPL UNAvjFcrmon Afghanistan 30 Cold NO
+1117 iYqTG JfUGh Afghanistan 107 SARS-1 YES 2-4-2012
+8606 AqAeubnL bmUdPH Afghanistan 33 COVID-19 YES 7-2-2005
+4221 IRRinND lmc Afghanistan 51 Flu NO
+2021 Ywz tqyC Afghanistan 40 Flu NO
+9147 BzWUNUhpb AtbraDeCdC Afghanistan 25 Ebola NO
+3050 XxrBkfFa QTmCHgt Afghanistan 77 COVID-19 YES 11-6-2002
+4973 ccUOWxi zEajm Afghanistan 72 Cold YES 9-10-2001
+292 qmPU kqHneYCf Afghanistan 35 Cold NO
+1865 MkQIoT OyjvHLLafX Afghanistan 16 Cold NO
+2581 vmmti fTn Afghanistan 97 Ebola YES 1-3-2019
+8223 aylflVxe xPjIo Afghanistan 82 SARS-1 YES 28-9-2017
+315 CQEuxMTM VEptZSL Afghanistan 9 SARS-1 YES 27-12-2001
+5560 pdqER MvLSCeTzNys Afghanistan 41 Cold YES 10-1-2007
+4400 XdQ rxDMLIhgpL Afghanistan 20 Flu YES 18-4-2019
+6755 HCNaiNsww vUoOQimsUCQ Afghanistan 27 Flu NO
+2568 cbMunrMY HvqAakXVyc Afghanistan 98 Cold NO
+3899 cbWy FnmS Afghanistan 90 Flu NO
+8009 NkaqTkgSff mUcSGL Afghanistan 60 Ebola NO
+4670 NGI JFAAByth Afghanistan 39 Ebola YES 8-1-2000
+8001 AIeoD AZOz Afghanistan 100 SARS-1 YES 20-3-2012
+5276 vURSCfKk QyqqQ Afghanistan 71 Η1Ν1 YES 5-12-2002
+9451 ITGeEFIBLZj gXKFwCt Afghanistan 87 Ebola NO
+8670 GOl WuiKTJxcv Afghanistan 37 Η1Ν1 NO
+7822 KvrpUIrms FWyDupMYVl Afghanistan 102 Ebola NO
+9990 pJduowUy KfPgLX Afghanistan 35 Ebola YES 14-11-2017
+1625 pUV NIXcxqxSZM Afghanistan 63 Flu NO
+9822 TCPsOpFgt wCI Afghanistan 19 SARS-1 NO
+6046 JssvgwssqNF Com Afghanistan 86 Η1Ν1 NO
+4599 FtXOMlPHH AejyUrzLZs Afghanistan 77 Cold NO
+8206 tMswugts okyhlUMeE Afghanistan 52 COVID-19 YES 15-6-2014
+4065 BVx XKJb Afghanistan 57 Ebola YES 18-1-2016
+1732 syjYM HdyDXMiCR Afghanistan 35 SARS-1 YES 21-9-2015
+5679 PUilYrw wcEWtL Afghanistan 65 Η1Ν1 NO
+4899 lLl JZMQO Afghanistan 112 Cold YES 13-1-2011
+8266 VvoX RnKbjWtY Afghanistan 4 Flu YES 30-10-2008
+1896 rWffAQMsnPR hczUBD Afghanistan 8 Cold NO
+4925 EnHgzt oxR Afghanistan 14 COVID-19 NO
+6365 ZVcSyFBmiwY QsJLW Afghanistan 85 Ebola NO
+9819 ZRgkpkosx EFPb Afghanistan 48 Cold NO
+6397 wASckc orYKaU Afghanistan 109 SARS-1 YES 20-11-2019
+8655 uqIEkq Ssgc Afghanistan 57 Ebola YES 3-3-2021
+2478 UMbjlWut CUtnryEmFm Afghanistan 52 Flu NO
+4602 JyAxkgZqlVK irOjkN Afghanistan 56 Ebola NO
+501 FJQDbBbul lwmhkfqLOM Afghanistan 42 COVID-19 NO
+2178 uqU cfzjnIDnLkq Afghanistan 18 Flu NO
+3779 EDaeJfi cVSrs Afghanistan 66 Cold NO
+1361 ltOiShJ mSuMg Afghanistan 25 Ebola YES 15-6-2002
+6104 ZxXxWEcmls Vmiv Afghanistan 22 Ebola NO
+9952 XeGjbAmeJ jLyWGqxVlN Afghanistan 42 COVID-19 YES 11-8-2004
+5669 eXLMuSzc Aptoy Afghanistan 44 Cold YES 18-7-2002
+7846 SFxGTDAuP jksGxKWH Afghanistan 3 Ebola NO
+1206 cey CAKH Afghanistan 44 Flu NO
+6700 nUbqxhkVY Zmfj Afghanistan 64 Η1Ν1 NO
+8980 NVVUrPNuO XZEYze Afghanistan 97 Ebola NO
+6041 HAsmDKzlZRK TDDA Afghanistan 97 Flu NO
+7918 nlWqRRE rNrjeRiBUxa Afghanistan 5 Flu NO
+512 NLVSnx CSidWUcCxTG Afghanistan 20 Ebola YES 14-9-2001
+3030 TetDTltxtl AqoWUR Afghanistan 70 Η1Ν1 NO
+9928 EUVecgMjP bHxhSQXzx Afghanistan 20 Η1Ν1 YES 2-4-2007
+5163 umBY VpQVPiz Afghanistan 19 Ebola NO
+1469 gdXxlQFMK igGNKzEQ Afghanistan 47 Cold YES 24-11-2017
+4199 KAQx qPeYmqLqn Afghanistan 65 COVID-19 YES 20-5-2003
+7732 IvCHttmqM OCCYFsSGhzT Afghanistan 9 Ebola YES 10-11-2013
+2713 CgeosLJvUNT oTvMWasmun Afghanistan 60 Η1Ν1 NO
+2587 nULcHr ohvi Afghanistan 98 Flu YES 11-11-2000
+6115 tYzoYtgQ AgqLQjVU Afghanistan 58 Ebola NO
+3003 avAgd aRZWQrGIh Afghanistan 115 Η1Ν1 NO
+6516 CCXOYhWimBC rEDjKBn Afghanistan 110 COVID-19 NO
+7924 ZRPssL jtJamlmf Afghanistan 118 Flu NO
+7979 XxPFKoxc uhnhsS Afghanistan 50 Flu NO
+4574 akzVnwv pcx Afghanistan 22 Cold NO
+1515 wbjVZ LYqqHDxmK Afghanistan 71 Cold NO
+6729 YJuEJN QGj Afghanistan 29 Flu YES 9-10-2016
+1301 VjTfakMa lYZoBc Afghanistan 111 Ebola NO
+1089 ATUv ClWA Afghanistan 35 Η1Ν1 YES 29-1-2001
+4995 ZFA MiZLidy Afghanistan 45 Ebola NO
+6652 xamult ZbrvyExDodt Afghanistan 40 Ebola NO
+9983 sjpPMEto Qjb Afghanistan 18 SARS-1 YES 23-8-2016
+8399 VpihMtPOv yPNNMOgqBh Afghanistan 80 Ebola NO
+4066 dHwxBar vMO Afghanistan 49 Cold YES 24-1-2004
+2806 zRclafEr KWKx Afghanistan 92 SARS-1 YES 30-7-2020
+1536 VkKvdzG Iwvm Afghanistan 27 COVID-19 YES 14-7-2012
+6419 JYsEI eHHz Afghanistan 115 Η1Ν1 NO
+2754 Nrk PXyjvbiIVvx Afghanistan 97 Ebola NO
+2161 KJzDXPKJk BkUp Afghanistan 79 COVID-19 YES 28-12-2009
+7674 XAsGs HYpKOoUv Afghanistan 27 Cold NO
+4169 lyvvqFpPGzA WfpJiInGzKs Afghanistan 33 Cold YES 21-8-2009
+8034 fwFU lqEJoktVOft Afghanistan 81 SARS-1 NO
+9494 IkLbsOSbM goO Afghanistan 68 COVID-19 NO
+212 tJiaC gUMool Afghanistan 56 Ebola YES 29-2-2002
+6273 BvZEKqMQc kPTmljNtr Afghanistan 40 Cold NO
+1284 WDLTdcTIL JTgE Afghanistan 25 Cold NO
+8739 UXy KgbnKCqcxh Afghanistan 96 COVID-19 YES 2-9-2001
+3417 yJCjg CowXITUNTeJ Afghanistan 96 Flu YES 3-8-2020
+868 YglUZ zTrHtnaboGR Afghanistan 57 SARS-1 YES 1-12-2021
+7693 nuFKWgVs sIxIt Afghanistan 0 Cold NO
+4159 UjN PuXJtKS Afghanistan 87 Cold NO
+908 YbXaxEpEnkw QyToN Afghanistan 85 COVID-19 NO
+1068 BcfcSDymD GhtJVLXBJZa Afghanistan 26 SARS-1 NO
+677 sfR LVNoy Afghanistan 19 Cold YES 11-9-2008
+7427 fwy qKHoqu Afghanistan 79 Flu NO
+8249 mgTRbOhZpA ozFR Afghanistan 67 Cold YES 3-12-2005
+4526 wlXAK hLqUxuvRs Afghanistan 79 Η1Ν1 NO
+2768 CiehCcwH hOkjzJU Afghanistan 62 Η1Ν1 NO
+989 OZHJVvw NSzLjWrqYu Afghanistan 80 Cold NO
+7932 AHx xvkh Afghanistan 59 COVID-19 NO
+5061 pqqyE rWycgruzCS Afghanistan 46 Flu YES 2-5-2002
+6429 CyhtZEUXkR SeUbVJlg Afghanistan 17 Cold YES 24-11-2007
+6242 aPZ Eoclw Afghanistan 25 Cold NO
+5952 DIgUJG HQJNxWn Afghanistan 56 Flu NO
+1194 UEzRn WjNsOoKqZo Afghanistan 112 COVID-19 YES 26-12-2010
+6813 VhyfrSjTA Yjb Afghanistan 72 Ebola YES 4-10-2013
+1205 ervSlW nlO Afghanistan 44 Η1Ν1 NO
+2455 yciAuFHpV BVwMwr Afghanistan 4 Flu NO
+7606 iJaT gNRIJpQt Afghanistan 66 Ebola NO
+2047 IMFSISh Crn Afghanistan 25 Ebola YES 30-11-2011
+582 zpagzLzVKKn aKLqYfnF Afghanistan 65 Flu YES 7-7-2015
+98 NGvUONUlVfX SaJZUaW Afghanistan 119 Ebola YES 13-7-2009
+2928 UyCN lak Afghanistan 60 COVID-19 NO
+5380 kZcnLBJE zsXp Afghanistan 25 Η1Ν1 NO
+9164 bCJ nym Afghanistan 73 SARS-1 YES 14-9-2004
+5256 UKLF pGtTxS Afghanistan 118 Η1Ν1 YES 12-10-2008
+7621 AQOgKmAVzQ AHuqxHxgT Afghanistan 117 COVID-19 YES 6-12-2018
+7665 dsCvGMfi QoAXM Afghanistan 28 Cold YES 3-7-2017
+1147 TvWIKagmGM RAa Afghanistan 97 SARS-1 NO
+594 cGIfyDB fupw Afghanistan 65 SARS-1 YES 25-2-2016
+6686 hjp tUygJRCWCl Afghanistan 3 COVID-19 NO
+1808 dZxwCPRU SYDYK Afghanistan 67 Cold YES 26-7-2017
+7548 nUptdJBXw pGKv Afghanistan 116 Flu YES 22-4-2004
+9348 uPErvzrDiM Vas Afghanistan 10 Flu YES 10-9-2011
+9673 iFXlgDIyw cBTEuaTkf Afghanistan 110 Flu NO
+5816 zNQQ jcktarnPFL Afghanistan 68 Cold YES 4-9-2006
+7209 qpcwAfxWtjP MiToy Afghanistan 11 Flu YES 26-11-2006
+9377 tRmlLcm Hiy Afghanistan 66 Flu YES 15-9-2005
+968 rHkb nUuDrZt Afghanistan 102 Flu NO
+731 OeJT zpxPwsUNG Afghanistan 68 Ebola YES 6-12-2009
+5437 sQVWtHSvdop JhGdsARjJ Afghanistan 110 COVID-19 YES 25-8-2002
+3935 Cwe OpmTItffA Afghanistan 79 Flu YES 11-2-2003
+1457 uvwyWneg MemLpZhIUPb Afghanistan 105 Flu YES 8-5-2008
+7524 FNRhMXxJKXu SHJ Afghanistan 84 Flu NO
+982 idV LEsgSMOTC Afghanistan 40 Η1Ν1 YES 12-3-2000
+3246 wSIG cWkwdBzu Afghanistan 32 Η1Ν1 YES 8-8-2006
+7165 pBQb Lja Afghanistan 2 Η1Ν1 YES 12-5-2007
+277 kUSAInqb AWMWMhazTu Afghanistan 80 Cold NO
+7546 AZCGa zcLZnpc Afghanistan 46 SARS-1 NO
+9872 Szv FaS Afghanistan 59 Cold YES 26-12-2009
+8756 JmeS IARbt Afghanistan 64 COVID-19 YES 5-1-2010
+4923 aFDySyq KpYqduO Afghanistan 106 Η1Ν1 NO
+5109 IIwR pNi Afghanistan 57 COVID-19 YES 28-7-2013
+6174 tDybqEpR GpjHGDjpj Afghanistan 5 COVID-19 NO
+61 nIH vWYq Afghanistan 19 Η1Ν1 NO
+232 NnhBHcVBmOq NzLD Afghanistan 44 SARS-1 NO
+4672 iwiG JwaKXoAtIl Afghanistan 23 SARS-1 NO
+5222 MQUjLNvk zeeixaT Afghanistan 36 Flu YES 13-1-2013
+2767 zduDfScA NLEI Afghanistan 95 Η1Ν1 NO
+9134 llrJ bulXWy Afghanistan 26 SARS-1 NO
+3825 tDvXicOAsF OEGSlrZq Afghanistan 7 COVID-19 NO
+8029 VghySThpXQ acnPtytgZiR Afghanistan 69 Ebola YES 15-9-2006
+7303 smXObUL EeUgmD Afghanistan 49 Η1Ν1 NO
+1226 DWkXNrrmTA fOuSwki Afghanistan 76 COVID-19 YES 21-1-2005
+498 qCqZlow RsVPPtunQjt Afghanistan 83 Ebola YES 12-11-2016
+2101 bqB fZLgoSAbJ Afghanistan 11 SARS-1 NO
+7324 iwx yKUfprk Afghanistan 88 COVID-19 YES 11-8-2001
+2379 tixRL QQX Afghanistan 17 Η1Ν1 YES 28-1-2015
+2417 BIHDXkwKhQk VmIryVT Afghanistan 86 SARS-1 YES 3-6-2019
+3003 Pjy sTCvJ Afghanistan 92 Flu YES 3-10-2021
+313 XyAtt QwqUKXlsYs Afghanistan 106 Flu YES 17-4-2002
+8917 MSByvFOKJn OdCFYCm Afghanistan 55 Flu YES 14-6-2002
+215 bXbsceflh qVivgVAagQX Afghanistan 101 SARS-1 NO
+7151 rLEGOvjA xGhDsTx Afghanistan 49 COVID-19 YES 25-7-2011
+2380 qWQ nIUdgbQbT Afghanistan 79 Η1Ν1 YES 24-7-2000
+5703 Gzu CHsFSIAJH Afghanistan 88 Cold NO
+6297 hZpoHGvPIcB llO Afghanistan 60 Η1Ν1 YES 9-12-2004
+7840 qwNSY aizzhicDppF Afghanistan 117 COVID-19 NO
+9506 UUTO JqixE Afghanistan 98 Cold NO
+9890 vVqX EiEcIpqApW Afghanistan 56 SARS-1 YES 23-8-2015
+9644 UmhqwvXUTx lTQu Afghanistan 42 SARS-1 NO
+1252 porffHSeB fvygfU Afghanistan 91 Cold NO
+6530 cUSpemjhDX kohWLF Afghanistan 24 Ebola YES 20-9-2005
+553 QgwSSbxeyU WLqDyLJJcJg Afghanistan 11 COVID-19 NO
+1586 bbwaOLnxq HfCfylZAvE Afghanistan 84 Flu YES 23-6-2015
+5402 yDWfwZ DhKv Afghanistan 73 COVID-19 YES 7-10-2007
+9828 GJByM OgozuP Afghanistan 60 SARS-1 NO
+7772 KCDLIlYoR soyYV Afghanistan 52 Cold YES 16-10-2010
+2360 RvovSY EjayCbXCADo Afghanistan 110 Ebola NO
+3237 qBSLKqi FgKb Afghanistan 12 Cold YES 1-10-2009
+6083 ielOXWyouVA xoxryptjbr Afghanistan 110 Η1Ν1 YES 16-4-2008
+2018 jFoWQsKhuns QuFCc Afghanistan 92 COVID-19 NO
+5075 iYvFSpsI ENcn Afghanistan 75 Η1Ν1 YES 2-8-2012
+8860 uwVqJkKQGFm pJj Afghanistan 63 SARS-1 NO
+5236 XAT MLIKB Afghanistan 69 COVID-19 NO
+5893 IHtmsNs MxHREnCL Afghanistan 43 Flu YES 20-7-2008
+1927 LYiiHORKpA SONkY Afghanistan 25 Ebola NO
+9327 LeoX mnEBzjcJ Afghanistan 4 Η1Ν1 YES 22-7-2005
+364 pBIPOCnrnV rqkJ Afghanistan 1 Flu NO
+1105 VHIFpKUiFQV PHkJjeGbKL Afghanistan 88 SARS-1 NO
+8524 MDiCY wcES Afghanistan 3 COVID-19 YES 28-10-2009
+5165 xhyOD jsepic Afghanistan 74 COVID-19 YES 13-10-2012
+190 fkEhlvIX SHynJSBgkqg Afghanistan 44 SARS-1 YES 24-4-2005
+8810 BgCnXJtYyW GGEkoi Afghanistan 34 SARS-1 NO
+1465 sSUaosDBT FVJqsYdNEMu Afghanistan 45 COVID-19 NO
+3281 delsyfbwkw FEPKTzui Afghanistan 10 Cold NO
+7902 DPgpWzMgz chMZXrkZCcK Afghanistan 112 Η1Ν1 YES 2-5-2011
+9544 ltkCDCnCG RcS Afghanistan 61 Cold NO
+1113 dxDRfpKULs HfUJTWV Afghanistan 31 Η1Ν1 YES 8-7-2010
+1032 fZNUj pdLyyEn Afghanistan 7 SARS-1 YES 17-5-2004
+9787 BGHJZNfczrM DKYTgLx Afghanistan 105 Cold NO
+5961 CwagQIHCL biImzgo Afghanistan 20 Cold NO
+163 alYNbF MJbKCwKk Afghanistan 55 SARS-1 NO
+6242 dcrgUN gCask Afghanistan 79 Ebola YES 8-6-2008
+8957 LoDLo OcdlAn Afghanistan 47 Flu NO
+5137 arQVEIqUJun OeFUGy Afghanistan 69 Η1Ν1 NO
+4847 oreurshrziN dNTKv Afghanistan 8 COVID-19 YES 12-1-2007
+1948 jjhEyvS MQxkXtey Afghanistan 58 Η1Ν1 YES 15-5-2008
+3091 CZzpyKKU JxywaQIWzmK Afghanistan 66 Η1Ν1 YES 30-3-2019
+6104 osbxsbhO xuEsgM Afghanistan 101 Cold YES 17-5-2015
+4194 ldHNUVKdXIB RstfMbXja Afghanistan 6 SARS-1 YES 10-11-2017
+5406 LQo ZpLuf Afghanistan 23 SARS-1 YES 13-2-2011
+7629 UpyLdIlmy ZOgFJ Afghanistan 77 Ebola NO
+2694 QiZCfOtme wnOjpszBfv Afghanistan 29 Cold YES 15-5-2001
+1377 WQQsSOwChZv NInGtZqgL Afghanistan 25 COVID-19 YES 12-7-2011
+3119 vLExrxMd ZBeZmRB Afghanistan 26 COVID-19 YES 22-10-2021
+7145 VkPULbuU mrnT Afghanistan 73 SARS-1 NO
+5740 fAEQLzGOu yiUcvMeXXB Afghanistan 101 Ebola YES 25-12-2011
+4730 ryBpTgefCO RdhkPdmbrwS Afghanistan 35 Η1Ν1 YES 1-1-2019
+583 PcFrZ orn Afghanistan 52 COVID-19 NO
+5928 YWFcIINJq ZLCVa Afghanistan 6 COVID-19 YES 22-6-2005
+355 pPkgXRCS ypNm Afghanistan 30 COVID-19 NO
+8164 xUxfvUWOt TnYRL Afghanistan 100 SARS-1 YES 14-2-2002
+4184 JKG EsAJenGb Afghanistan 102 SARS-1 NO
+8846 YumeGPbiOcW NuekxsKsI Afghanistan 54 Flu YES 9-12-2004
+327 EwLsIGOu RRp Afghanistan 37 Flu NO
+7718 kNAKgDBP vBjwOkMlES Afghanistan 63 Ebola NO
+4987 kWJbUzW fbKaTwzxwO Afghanistan 102 SARS-1 NO
+4953 NKLNNAUUTdY zjn Afghanistan 114 Ebola YES 23-8-2008
+2219 WLcsv KAA Afghanistan 42 SARS-1 YES 18-11-2013
+3396 nYdydQfMpbC JJOsKZI Afghanistan 74 Η1Ν1 YES 14-2-2002
+2985 XctIne BPXk Afghanistan 106 SARS-1 YES 15-4-2006
+2026 uRPmAK gRPnBTtok Afghanistan 59 SARS-1 NO
+746 gcPjUkCbkQl dCfgGYlFCE Afghanistan 69 Ebola YES 7-11-2015
+9745 TLhfygChR lubetT Afghanistan 100 SARS-1 NO
+1469 nrjAUhS eQOBoaNZ Afghanistan 5 SARS-1 NO
+2189 NbWBNoUCn vkFTWJ Afghanistan 95 SARS-1 NO
+6921 SpIQA ndAvSCBSpA Afghanistan 33 Η1Ν1 NO
+4298 bIVivrIPN UKiPUYxV Afghanistan 75 SARS-1 YES 17-4-2017
+5888 OQO tgAuJrepJiF Afghanistan 14 Cold YES 25-10-2007
+9603 qtDqi NsMASDmC Afghanistan 72 Flu YES 18-4-2014
+6147 nimEs ieqjxghWnW Afghanistan 101 Ebola YES 15-5-2018
+6651 kEmVVtc vEGh Afghanistan 1 Cold NO
+4960 BDkzGqnsN GkTJb Afghanistan 38 Flu NO
+8719 PtpbnHfuPFs jWVqkFKjH Afghanistan 116 COVID-19 YES 27-1-2012
+3941 qBeJHyECf PMXtUnvQc Afghanistan 26 Η1Ν1 NO
+2477 fzxVlerpv KfYIerk Afghanistan 53 Η1Ν1 YES 9-5-2021
+4598 JrvFIR PAyF Afghanistan 42 Η1Ν1 NO
+2011 MzsymIjsaQ fzRaL Afghanistan 9 Ebola NO
+1432 ADts GyHbAo Afghanistan 101 COVID-19 NO
+8302 waYJFuXZA GCkImzKZrcI Afghanistan 19 COVID-19 YES 18-10-2005
+1051 zBZMGQOUAfb EdEShnThzZE Afghanistan 49 COVID-19 YES 7-12-2017
+6540 UEdc QaXdSP Afghanistan 101 Flu YES 24-7-2017
+2883 WNTHEeP jHKade Afghanistan 75 Cold YES 21-7-2007
+4250 rNEyaZci MtVLE Afghanistan 3 SARS-1 NO
+8798 RYcPvlR WOCTOgY Afghanistan 85 Ebola NO
+6553 ADJOq nJYgyVBJEV Afghanistan 43 Cold YES 28-5-2016
+1021 NkDYH esC Afghanistan 118 Η1Ν1 YES 18-5-2014
+4211 GapPCh MQSewJV Afghanistan 34 COVID-19 NO
+5990 JcDITdAodi mzZujpiXjO Afghanistan 28 Flu NO
+4917 UiCoCOlJqN FDGwPiSpx Afghanistan 82 Flu NO
+9545 cEwACWQF qIYH Afghanistan 41 Η1Ν1 YES 5-1-2000
+6192 zvadypeA EnMWPWBca Afghanistan 5 SARS-1 NO
+1231 VWmFbrD IutmTjHri Afghanistan 110 Cold NO
+9733 tZTPqn SNnX Afghanistan 96 Η1Ν1 YES 25-3-2014
+2561 Fmijr zJFKwZxzwQ Afghanistan 118 Η1Ν1 YES 18-9-2014
+6151 ZKebyU bGRSfAcFox Afghanistan 1 Ebola NO
+9035 vOOPIPBIf xPbuIolnF Afghanistan 8 SARS-1 NO
+398 xZV GDLb Afghanistan 53 Cold NO
+1526 NbR VEbpcbrs Afghanistan 106 Ebola YES 24-6-2009
+253 LIndyGQ owJd Afghanistan 64 COVID-19 NO
+1690 OYcREr XhJHVAoA Afghanistan 35 Cold NO
+1167 eNbKF qoeQPa Afghanistan 23 SARS-1 YES 8-9-2001
+7426 nhI PyGBCiz Afghanistan 70 Cold YES 3-1-2015
+8273 LhA ZTWcMHIjWXF Afghanistan 94 Ebola YES 17-8-2020
+9469 fygOl vRI Afghanistan 22 COVID-19 NO
+3746 NdkIXUi kUqKFGi Afghanistan 32 Flu YES 15-5-2005
+850 PpzLFK nHm Afghanistan 75 COVID-19 NO
+1258 BfrBydOOET uQfwNpgVil Afghanistan 32 COVID-19 YES 9-3-2018
+1605 PAwtU hmZTOflY Afghanistan 86 Ebola NO
+875 pGnYfR XKJI Afghanistan 77 Ebola NO
+2739 Ftvre XOlOt Afghanistan 111 Flu YES 23-10-2013
+970 MExCJn IXLuzYNfU Afghanistan 8 SARS-1 YES 7-10-2016
+2577 ZlzY ExwnXIx Afghanistan 119 Flu NO
+372 WTZuRgqjJvn lGsGld Afghanistan 117 Ebola NO
+3163 VGcG hGWVCg Afghanistan 10 Cold YES 4-6-2013
+7423 XGPYIfy GYWKQQPXo Afghanistan 68 Η1Ν1 NO
+8174 VwDyUFCIaWR nFuGZVw Afghanistan 100 SARS-1 NO
+502 vzcYvc wjfT Afghanistan 54 COVID-19 YES 20-3-2005
+1410 Tufvcc xCfKHkCxT Afghanistan 104 Flu YES 4-10-2010
+7212 osH qZBBbP Afghanistan 15 Flu YES 4-1-2017
+2857 pbtdQqj bXrRhNEd Afghanistan 22 Η1Ν1 NO
+923 kDecNmt zwWQNIKcjD Afghanistan 37 SARS-1 NO
+8752 KltpSntc ggppdZZWvb Afghanistan 67 Flu YES 26-11-2016
+5912 LhK ZZnJjnG Afghanistan 88 Flu YES 2-12-2012
+8944 uuhfUeAo sTHUGwI Afghanistan 0 Ebola YES 2-10-2002
+8676 PuEU YLJqWWDJ Afghanistan 21 Cold NO
+1188 lbEkiyC YSpBkPtrT Afghanistan 42 Η1Ν1 YES 20-5-2006
+6397 WgwGC cqdXQPMaAyv Afghanistan 23 Flu NO
+945 SUxr LTvyCi Afghanistan 40 COVID-19 NO
+5142 PZeXCgcgX wCuo Afghanistan 14 Flu YES 22-12-2017
+1675 bsmEiDpF XpFqwjrUq Afghanistan 72 COVID-19 NO
+261 qsazOEscPr IeHfyyYRgwR Afghanistan 8 COVID-19 NO
+5981 TVobzPY dIdlAhmNfER Afghanistan 12 Ebola NO
+2480 UBdqzFfuTHL obCcApXPpWJ Afghanistan 54 Η1Ν1 YES 6-7-2007
+196 iBsSFFIMfo nlxWNZluGB Afghanistan 58 Η1Ν1 NO
+1888 kGPeCh gJAercoIPb Afghanistan 44 Η1Ν1 NO
+2525 uKuZArRoiz htnKGYXldy Afghanistan 113 SARS-1 NO
+3676 KMLI iQTiishLfk Afghanistan 2 Η1Ν1 NO
+7302 tiKFv vWWZ Afghanistan 67 Cold NO
+1094 cSf LaTbc Afghanistan 119 Cold NO
+3824 MpObCJu nWa Afghanistan 0 Cold YES 18-12-2011
+8860 YzPvKKrLeQ TuT Afghanistan 18 Η1Ν1 YES 1-4-2003
+8142 wUFZJVv ACfoxJJikth Afghanistan 100 SARS-1 YES 18-7-2000
+6942 LyeQyB ZyWSE Afghanistan 116 SARS-1 YES 26-11-2015
+4499 cwr hJlihbilSED Afghanistan 116 SARS-1 NO
+792 qXXwFQq nFqcuh Afghanistan 7 Η1Ν1 YES 9-11-2000
+7345 NmvnSC hAFdyZR Afghanistan 39 SARS-1 NO
+1838 ljCIeiilCsd STQzUGXMl Afghanistan 13 COVID-19 NO
+166 VOV FnMHrGv Afghanistan 94 Ebola NO
+1064 yEM fHPoLrwHGU Afghanistan 12 SARS-1 NO
+9659 QpYqxReKIua MKEHKEGs Afghanistan 45 Flu NO
+2961 avYF lMG Afghanistan 95 Η1Ν1 NO
+3044 cPv qdWi Afghanistan 91 SARS-1 NO
+9407 lWbriXtFSc ScZrub Afghanistan 12 Flu YES 20-10-2016
+2689 MrXhxW OIKncLaFov Afghanistan 99 Η1Ν1 NO
+345 SnDCTGC Thqys Afghanistan 52 Ebola NO
+1390 SipFBEAc lQehXesdA Afghanistan 34 Flu NO
+8316 sNhtcJDqxZR abYvXTGojmQ Afghanistan 2 Ebola YES 18-2-2009
+6398 rVZOD sXebahryc Afghanistan 6 Ebola YES 17-4-2013
+2600 VgWXCFTxq awfh Afghanistan 69 Ebola NO
+8529 HrBovk aVYtqIHFzhb Afghanistan 87 SARS-1 NO
+3261 dAtrc LJyoEJEVqB Afghanistan 75 Ebola YES 27-7-2009
+5377 qKMpUAsV NpfAQeHs Afghanistan 90 SARS-1 NO
+2091 RHNXd Zbq Afghanistan 44 Ebola YES 11-2-2006
+8870 cgBEEGJ BbNNQvRM Afghanistan 27 Η1Ν1 YES 9-8-2018
+3409 pjJFMaXQf NJlNz Afghanistan 18 Flu NO
+1890 BqEIJ QQcIaQIstK Afghanistan 52 Ebola NO
+544 cagRgEi VmlzJgzXy Afghanistan 84 Ebola NO
+2979 BHBJQXsLPJ MTWYegah Afghanistan 83 Cold NO
+836 hunlQIDmZhZ dxyBqfqKzrL Afghanistan 39 Ebola YES 20-7-2011
+9019 QLbxQfq cZov Afghanistan 19 Η1Ν1 YES 2-1-2020
+5386 JUCQH AgvsFgxbnm Afghanistan 5 Cold YES 22-7-2000
+8961 EUrCKZCIHEJ mMnvywAy Afghanistan 108 Η1Ν1 YES 15-3-2009
+7651 MqbcSU eFo Afghanistan 116 Η1Ν1 NO
+8148 UPFMawVh yHFjxpkzhDv Afghanistan 110 Cold NO
+1541 JxqprSFrx LlQrrxPNDkQ Afghanistan 17 SARS-1 NO
+6042 tcWZ VxhKB Afghanistan 27 Η1Ν1 NO
+8564 qDu blwhxJhEiQp Afghanistan 1 Η1Ν1 NO
+1058 tjeNrc jJeZvs Afghanistan 20 Η1Ν1 NO
+2331 dZYOUKB lblKQVCv Afghanistan 9 Ebola NO
+6138 TFlpLc hPvYtAqJ Afghanistan 100 Flu NO
+7950 cgeRs SHRHktUKEUY Afghanistan 99 Ebola YES 1-8-2004
+5310 XrQ cWsRl Afghanistan 61 SARS-1 YES 14-2-2010
+1413 kKFBJlqqgED kjYQQvjk Afghanistan 17 COVID-19 YES 22-12-2015
+2778 QsyhSxowt lBLmDW Afghanistan 47 SARS-1 NO
+2471 KZvxeDL LJFWxtvm Afghanistan 78 Η1Ν1 NO
+7759 cVbqoWg FRBLw Afghanistan 6 Flu YES 28-1-2003
+4383 fqWrVDE juoMiVDUMjZ Afghanistan 44 SARS-1 YES 22-5-2016
+5156 frdJ WalCd Afghanistan 97 COVID-19 YES 26-3-2015
+3276 UuMRhgK blsi Afghanistan 92 SARS-1 YES 8-3-2020
+1865 SGcb oDWeGYxW Afghanistan 66 Η1Ν1 YES 6-8-2008
+7782 vwypagPA FBRUEP Afghanistan 77 Flu YES 5-2-2017
+9168 INLzhBede rjqGwyiI Afghanistan 17 Flu YES 18-1-2018
+7500 OCQ DJGLdK Afghanistan 26 SARS-1 NO
+6277 WCTmOEq aFwtFglt Afghanistan 96 Ebola NO
+5150 CfP QvhawHjOZ Afghanistan 13 Flu YES 18-10-2021
+2524 OgB hhSE Afghanistan 108 SARS-1 NO
+1372 ochLBXUPpP RGnrQfNQ Afghanistan 8 Flu NO
+920 rSnlHeGpfJl NjnvNuW Afghanistan 1 Ebola YES 13-10-2008
+6722 Yup AaJpNOGKSOu Afghanistan 3 Flu YES 25-10-2017
+7672 uecQbZQ lhg Afghanistan 61 COVID-19 NO
+834 eJkvAMBMlEG bHQwHEiE Afghanistan 45 Ebola NO
+1272 nllPuFCE jBVyfxKOod Afghanistan 25 Cold NO
+3657 uFRS iqsWqgCDjw Afghanistan 31 Ebola YES 5-8-2009
+7576 jgnIKHWibx cCJnJWXJ Afghanistan 49 Η1Ν1 YES 22-2-2003
+7305 otnXJSUh zsNFLeevzQG Afghanistan 33 Cold NO
+618 CUbESqa rIY Afghanistan 37 Ebola NO
+4102 fuGO CfjTkGqQ Afghanistan 38 Η1Ν1 YES 5-4-2001
+1886 cYPfRJHniO ipX Afghanistan 84 COVID-19 NO
+6980 MIKOAEfZ rcLYE Afghanistan 89 Η1Ν1 YES 26-3-2012
+8999 NHMtlpHCbn XUaJiVAivx Afghanistan 79 Flu NO
+4921 MRWN QYJBCvQt Afghanistan 36 Cold YES 30-1-2006
+2690 IZKpR ASAT Afghanistan 110 Η1Ν1 NO
+8741 ADaT uWIccVP Afghanistan 70 Flu NO
+7250 YLGTOhkkt pTbIoJprvfv Afghanistan 20 Flu NO
+1705 QLWC UGDbtbe Afghanistan 36 Flu YES 19-6-2021
+2528 AuWonWF CkfMiyevNd Afghanistan 92 Ebola YES 12-11-2019
+9463 xlKchqN PGMNGe Afghanistan 13 Cold YES 15-6-2004
+9865 nhHRK CTyUKWRwqOy Afghanistan 98 Flu YES 3-11-2015
+762 YIxPbkpIK dnwg Afghanistan 67 Cold YES 26-9-2001
+1605 mbzwWTbHs SbaocwD Afghanistan 88 Flu NO
+9236 aLmtXuBCG gzcJMNHLn Afghanistan 82 Ebola YES 3-7-2009
+3125 UoVeNhnofr uZbOSVQW Afghanistan 115 Η1Ν1 NO
+2587 IIEIQor OAOq Afghanistan 95 Flu NO
+5483 UnqM CfBGG Afghanistan 23 SARS-1 YES 30-4-2013
+118 QJZcbapVz dUT Afghanistan 85 SARS-1 NO
+7188 yuPowUClvX iozucU Afghanistan 42 Ebola NO
+1680 MEwCdc AGNAg Afghanistan 85 COVID-19 NO
+8936 OOWWmS Tqw Afghanistan 7 Flu NO
+5473 GmVNHmR iNhUjfPomPB Afghanistan 64 Ebola YES 16-4-2020
+3618 jEhxPXUR WErZyjop Afghanistan 43 Η1Ν1 NO
+318 ZmZlEb vRryjrMkxO Afghanistan 75 Flu YES 29-9-2021
+2639 ujakoDXRZ lkfJkRu Afghanistan 37 SARS-1 NO
+7744 uNfsZzHD OfrM Afghanistan 57 SARS-1 YES 30-3-2008
+1409 vXzBBgrTJgp nkUuysWm Afghanistan 26 Η1Ν1 NO
+5641 lpPetByFl eePzha Afghanistan 70 SARS-1 YES 28-11-2007
+2978 hYS jJPlKSy Afghanistan 93 Η1Ν1 YES 10-12-2009
+7534 ZgcpuZ jNJVufxuM Afghanistan 42 Cold YES 25-3-2019
+7598 QWmpwh QlguLmEZyM Afghanistan 105 Ebola YES 22-11-2005
+2482 TaSjzRT dzPFhV Afghanistan 37 Ebola YES 24-12-2006
+1943 KMxEbd vYuVoHoXQb Afghanistan 89 Flu NO
+399 TPYHqqCShV Askw Afghanistan 90 COVID-19 YES 13-1-2018
+9112 FXcLVv YtcmEHxCGgf Afghanistan 52 COVID-19 NO
+1262 HHqrsahBb PYnidJ Afghanistan 97 COVID-19 NO
+2008 cOui Yvlc Afghanistan 66 COVID-19 NO
+2073 yYxGCyszN FIgHPuvUWU Afghanistan 110 Η1Ν1 NO
+7722 piVaHUwV mugvuNldaDc Afghanistan 13 Cold NO
+1783 oPwu GUrfnx Afghanistan 40 Ebola NO
+7068 PuwzkwAWB RmJC Afghanistan 52 COVID-19 NO
+5037 StxxAAZt jbX Afghanistan 1 COVID-19 YES 25-12-2005
+3757 sFVRMrLXt nbHOTea Afghanistan 87 Cold NO
+9444 TTkfBKQ tihY Afghanistan 51 Flu NO
+1487 SvGlGe RepGjGAZQ Afghanistan 20 Η1Ν1 YES 14-3-2007
+6336 JIPwYHKH nRkSBr Afghanistan 40 SARS-1 NO
+3740 leqgWAn QqmVlmq Afghanistan 29 Η1Ν1 NO
+903 UFexaBRTeRu Amo Afghanistan 102 COVID-19 NO
+6353 ulJhAWzwGE Tfk Afghanistan 66 Ebola YES 4-11-2004
+452 xLpp Ogg Afghanistan 76 Flu YES 10-2-2009
+8734 ShiJ MTb Afghanistan 109 Η1Ν1 NO
+422 rbwuEyDUC iIRfuhS Afghanistan 84 Flu NO
+3752 tjyGsZ PnSF Afghanistan 78 Η1Ν1 YES 28-5-2017
+6360 TPhxICQwwv TIXKElQXcP Afghanistan 2 Cold NO
+1042 IvAfZCLqS yLQHnN Afghanistan 93 Ebola NO
+1301 axKCMCyJ kxhmjMLRO Afghanistan 43 Η1Ν1 NO
+5787 vopLCzpGSh sfuarT Afghanistan 83 Η1Ν1 NO
+5928 tHBR LNQE Afghanistan 28 SARS-1 NO
+5447 cNuEcJJAlTi vpgliYXz Afghanistan 94 SARS-1 YES 30-6-2002
+3202 frfOtKimFvS xXtFiAl Afghanistan 91 COVID-19 YES 24-5-2020
+2865 AJRgHxcKBhs OXlGRG Afghanistan 108 Flu NO
+1437 CVDoYLHBylp KCdlYAtOSO Afghanistan 5 Cold NO
+1140 FpbHsjHoTt mfaYyW Afghanistan 26 SARS-1 NO
+9657 YOMiBFwaF nspIkQoF Afghanistan 85 Ebola NO
+5591 RnEzvaFfb mYOlzXs Afghanistan 23 COVID-19 NO
+8824 hqXZBzzaNa pfeDPIIEAc Afghanistan 99 COVID-19 YES 10-9-2021
+7552 Odpx tWGlSOWewf Afghanistan 60 Cold YES 20-5-2000
+5257 RQkpz HwcZqaDhb Afghanistan 116 Cold YES 2-5-2021
+7244 SBDHIy qJSzsq Afghanistan 15 COVID-19 NO
+1033 fWMp RudIwwfjit Afghanistan 48 COVID-19 YES 13-7-2005
+2572 uvoegeEKlnN fRxsOxkCW Afghanistan 30 SARS-1 NO
+1599 dOGxxj nEZkamfD Afghanistan 55 SARS-1 YES 4-12-2002
+9051 KiWH VTclbewE Afghanistan 44 Ebola NO
+1928 ZWHVV xLXzsTio Afghanistan 61 Flu NO
+6042 Vmz pcNLsTsb Afghanistan 27 Ebola NO
+1088 rRkYFLO QEftjAkd Afghanistan 100 SARS-1 NO
+8160 bKwFD kMgTKTvLBUM Afghanistan 118 COVID-19 YES 29-7-2016
+8773 WMDln gXpzKS Afghanistan 31 COVID-19 YES 9-7-2021
+5795 UZRsb MDzJ Afghanistan 17 COVID-19 YES 5-2-2003
+2509 sUtsbeXx aTHfc Afghanistan 74 COVID-19 NO
+8975 kmtoHQhjOkB JUYtJYawy Afghanistan 45 Cold YES 27-1-2021
+1964 oFqpGfbouN mkh Afghanistan 5 Η1Ν1 YES 27-4-2000
+7646 MfRg qCgeZAl Afghanistan 4 Flu YES 20-11-2003
+9267 DBkauLwYH fSRmlVCPb Afghanistan 106 Flu YES 12-3-2002
+3292 ajCBlRkC ywGhSlnYs Afghanistan 119 SARS-1 NO
+5760 INbZ ZsYRMpWD Afghanistan 103 SARS-1 YES 22-1-2020
+3876 aCrwgv FbX Afghanistan 80 Ebola YES 2-3-2014
+1004 uIWhz XBCKOwJK Afghanistan 93 Flu YES 26-1-2010
+3259 igqM KxCgCTqG Afghanistan 3 Ebola YES 13-3-2014
+1747 dFRmLDG mkSsQHIgK Afghanistan 5 SARS-1 YES 10-8-2020
+3411 OaBsxebgCW dyFWUTuny Afghanistan 80 COVID-19 NO
+9272 GyQxKUNs tqtbUwJ Afghanistan 46 COVID-19 NO
+5820 blymJZk iAzKmwuwm Afghanistan 16 SARS-1 YES 17-7-2004
+3469 eGW RvKMlnfd Afghanistan 62 COVID-19 NO
+4964 iAp dbFAvf Afghanistan 73 COVID-19 YES 29-8-2012
+8934 klBr dpzzeXbHo Afghanistan 46 SARS-1 YES 21-1-2018
+3730 DygibauiHB hMYeopgUPJI Afghanistan 103 Cold NO
+9947 xoieSqyC iUoNdQU Afghanistan 5 Flu YES 9-6-2017
+2113 hvGzH YqiLuxCmR Afghanistan 94 Flu YES 21-11-2014
+6247 DEVFHGnhvUA OLAQsDkKYfW Afghanistan 6 Cold NO
+8958 JjUlmjpUTN gtE Afghanistan 18 SARS-1 YES 18-1-2011
+3661 MgHz ZHoeh Afghanistan 46 SARS-1 YES 15-10-2009
+9961 MpLhzksg atsxjWQmbT Afghanistan 48 COVID-19 YES 28-5-2007
+8171 NBF aMNFHJyGH Afghanistan 106 Ebola YES 17-6-2011
+609 Dovo UifYOXgfYPn Afghanistan 105 Ebola YES 2-9-2018
+3304 wThxCNYU kHpWOSODEQ Afghanistan 57 Ebola YES 6-3-2009
+2374 jLLCmZJwf HYiNNTVONT Afghanistan 62 Η1Ν1 YES 30-4-2010
+9839 niniWgame HrAUTWJ Afghanistan 16 Η1Ν1 NO
+474 IpZqzT RaUW Afghanistan 5 SARS-1 NO
+8352 pIhHU xEHd Afghanistan 0 SARS-1 NO
+1533 yqyyeu Qswf Afghanistan 42 Flu YES 19-7-2009
+6700 rMYMPLCtlHL GUPzid Afghanistan 24 SARS-1 NO
+7589 GEctMSQa KCeGrxEgA Afghanistan 86 Ebola NO
+3302 oXOZahuOl kfrpFUD Afghanistan 59 Flu YES 27-1-2013
+8338 aydKEEowEC QeJWmaNU Afghanistan 81 Η1Ν1 NO
+9235 GeJp TtZfFQNC Afghanistan 53 COVID-19 NO
+1721 QTl gGlyqwDcfL Afghanistan 31 Flu YES 15-11-2010
+6833 xiAYqs pzjUzZdS Afghanistan 105 SARS-1 NO
+1857 NBZYZC OiRStoT Afghanistan 57 SARS-1 NO
+7569 TurLHSAoJKj GShjCn Afghanistan 47 Flu YES 13-12-2017
+3751 hTyAwBNWN BufUDLHXa Afghanistan 5 COVID-19 NO
+8958 GXAWs Cxom Afghanistan 84 Cold NO
+5407 EBRgeBPmB QrD Afghanistan 117 Η1Ν1 NO
+5678 rGyKcfjoPew nPMegz Afghanistan 76 Cold NO
+8416 FxGnJfcv ORytjuPvl Afghanistan 89 Η1Ν1 NO
+905 IrvY JhM Afghanistan 65 Cold NO
+2698 Ghh TgOat Afghanistan 8 Cold NO
+3359 RSqAZ AaknKP Afghanistan 10 Flu NO
+6438 xdlD vGhGVSGbkY Afghanistan 61 Η1Ν1 NO
+966 rZZfybDHI CGyBrRpM Afghanistan 36 Flu NO
+1691 qcJcxMmA FbAABIBJVWB Afghanistan 30 SARS-1 NO
+9218 sbRAXaezie qSHkLQfTq Afghanistan 18 Η1Ν1 YES 6-8-2013
+520 umI DaCDAyv Afghanistan 31 COVID-19 NO
+4636 QbFy mhYxvn Afghanistan 41 Flu NO
+4667 upvA KnbKLGEWIR Afghanistan 109 Η1Ν1 NO
+5150 rSOuDP zRHiVFrGNO Afghanistan 73 SARS-1 NO
+1130 RZgY JInO Afghanistan 17 Cold NO
+735 RSzHZ KZeUjK Afghanistan 15 SARS-1 NO
+9327 IPe SvxCF Afghanistan 119 Η1Ν1 NO
+1301 GczVrHjbf wcTmwnrwa Afghanistan 113 Ebola NO
+1905 VOdgvDo imZr Afghanistan 116 Flu NO
+7191 CUdt vAQcbtc Afghanistan 86 Η1Ν1 YES 30-6-2017
+9820 NRpu PIOd Afghanistan 106 COVID-19 YES 5-9-2016
+4498 pCvzWHFw MrL Afghanistan 37 Η1Ν1 NO
+49 cUnyiqGDjBt yOWuPVi Afghanistan 60 Flu YES 15-12-2013
+7734 efQsCC ufFxQZw Afghanistan 63 Flu YES 23-9-2007
+1059 jFomgE iQZg Afghanistan 68 COVID-19 YES 22-4-2008
+5205 TqeRklc oIUK Afghanistan 32 Flu NO
+8831 dZKcQFTsoTF DFljXfEebtR Afghanistan 39 COVID-19 YES 13-10-2020
+649 VXihzQtWzNu oOoDNSOsvWm Afghanistan 67 Flu NO
+6029 rKWgF bqxBRmunb Afghanistan 46 Ebola YES 27-12-2010
+8727 APMMat AxheJoFJZq Afghanistan 88 SARS-1 YES 16-9-2010
+3235 itDSHefyzG rzF Afghanistan 48 COVID-19 YES 3-10-2012
+8163 VNpJkX XfDsqprx Afghanistan 55 SARS-1 NO
+6842 SyMPMmX WbDp Afghanistan 39 Flu NO
+9934 Gafi hVBECvlSxy Afghanistan 37 SARS-1 NO
+9073 JNj UzRAKFozOT Afghanistan 10 Flu NO
+2390 rvRjsm mvurnXQL Afghanistan 73 Flu NO
+7480 Alw PTRCaxrvO Afghanistan 20 Ebola YES 16-6-2013
+6179 dPx Qcrziye Afghanistan 38 Η1Ν1 NO
+9280 uSNCVCU GzeIp Afghanistan 85 COVID-19 YES 10-2-2010
+5647 qxjbI qhmaO Afghanistan 7 Cold NO
+9348 qGotCvcjV oGmSCahxt Afghanistan 96 SARS-1 NO
+4157 cDSDvQO KAQNQahywZo Afghanistan 36 Flu YES 13-3-2014
+6076 KojghocCM LaxEfIB Afghanistan 37 Ebola NO
+1777 fkoQbZvqHoa XigazxU Afghanistan 35 SARS-1 YES 15-11-2001
+4999 MeQMXj xVMazNtfR Afghanistan 105 Ebola YES 26-5-2002
+3275 vDGAZBpIY IRUAaWk Afghanistan 91 Η1Ν1 NO
+3020 BhE PNuiWBPYqTW Afghanistan 89 Flu YES 1-12-2013
+3159 bUkfVi XjyHpsC Afghanistan 17 Cold NO
+1962 EojATyPocay Xpyk Afghanistan 24 Cold YES 15-12-2013
+1554 zJl sBSPpVM Afghanistan 12 Ebola NO
+6678 FQTRp uEKRGyKqH Afghanistan 68 Flu NO
+3272 LukJSGMas qfRhm Afghanistan 116 Ebola NO
+1377 KXNWamDPvFu DfOVicAFmAf Afghanistan 107 Η1Ν1 YES 1-8-2008
+9219 BLbWeqw LXikcZAWEuU Afghanistan 49 Cold NO
+7056 YMeliogE jKDKLpPAA Afghanistan 85 SARS-1 YES 29-7-2013
+3911 xli LgxBJxdsw Afghanistan 118 COVID-19 NO
+1141 kDErTNhML VSzibynliua Afghanistan 1 Cold YES 11-1-2000
+708 DWCO VYkNUj Afghanistan 37 Cold NO
+1452 xDZK dwkF Afghanistan 7 Ebola YES 27-2-2016
+2157 rPoBWbrS ptFfeg Afghanistan 101 SARS-1 NO
+1069 nHfefJ pJXfTxyio Afghanistan 104 SARS-1 NO
+882 xKBaQRdpEF iwdeDRuNZr Afghanistan 47 SARS-1 NO
+5840 NkT lsyIi Afghanistan 105 COVID-19 NO

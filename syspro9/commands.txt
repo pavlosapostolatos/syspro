@@ -1,0 +1,14 @@
+./travelMonitor -m 3 -b 1024 -s 1024000 -i mydir
+./travelMonitor -m 4 -b 100 -s 100000 -i input_folder
+valgrind --leak-check=full --show-leak-kinds=all --trace-children=yes ./travelMonitorClient -m 3 -b 512 -c 10 -s 102400 -i mydir -t 2
+/travelRequest 9049 22-02-2014 Afghanistan Greece Ebola
+/searchVaccinationStatus 2001
+/travelStats Ebola 10-01-2010 10-01-2015 Greece
+/addVaccinationRecords COUNTRYA
+
+/travelRequest 1003 01-03-2017 COUNTRYA COUNTRYB VIRUS1
+/travelRequest 1003 01-04-2017 COUNTRYA COUNTRYB VIRUS2
+/travelRequest 1003 01-03-2018 COUNTRYA COUNTRYC VIRUS2
+
+/travelStats VIRUS2 01-02-2017 01-04-2018
+/travelStats VIRUS2 01-02-2017 01-04-2018 COUNTRYB
