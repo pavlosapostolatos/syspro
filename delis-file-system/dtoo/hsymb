@@ -1,0 +1,12 @@
+#include <iostream>
+#include <algorithm>
+#include <ctime>
+#include <cstdlib>
+#include <fstream>
+#include <string.h>
+
+using namespace std;
+int main(){
+char *s = new char[8]; 
+delete s;
+}

@@ -1,0 +1,63 @@
+total 668
+ 8 drwxrwxr-x 3 ad ad  4096 Απρ   3 21:38 .
+ 8 drwxrwxr-x 5 ad ad  4096 Απρ   3 15:24 ..
+ 0 prwxrwxr-x 1 ad ad     0 Σεπ  10  2016 kitsos
+ 0 -rw-rw-r-- 1 ad ad     0 Απρ   3 21:38 kostas
+ 8 -rw-rw-r-- 1 ad ad  2848 Απρ   3 11:23 Makefile
+ 0 prwxrwxr-x 1 ad ad     0 Σεπ  10  2016 myfifo
+ 8 -rwxrwxr-x 1 ad ad    13 Σεπ  10  2016 MytestFile
+16 -rwxrwxr-x 1 ad ad 10632 Απρ   3 11:21 p07-getlimits
+ 8 -rwxrwxr-x 1 ad ad  1094 Μάρ  27 20:52 p07-getlimits.c
+16 -rwxrwxr-x 1 ad ad  9792 Απρ   3 11:21 p09-processIDs
+ 8 -rwxrwxr-x 1 ad ad   205 Σεπ  10  2016 p09-processIDs.c
+16 -rwxrwxr-x 1 ad ad  9728 Απρ   3 11:21 p12-exit
+ 8 -rwxrwxr-x 1 ad ad   155 Μάρ  27 23:31 p12-exit.c
+16 -rwxrwxr-x 1 ad ad 10072 Απρ   3 11:21 p15-fork
+ 8 -rwxrwxr-x 1 ad ad   430 Μάρ  28 18:25 p15-fork.c
+16 -rwxrwxr-x 1 ad ad 10144 Απρ   3 11:21 p16-fork2
+ 8 -rwxrwxr-x 1 ad ad   541 Απρ  17  2016 p16-fork2.c
+16 -rwxrwxr-x 1 ad ad 11496 Απρ   3 11:21 p17-mychain
+ 8 -rwxrwxr-x 1 ad ad   567 Μάρ  28 18:31 p17-mychain.c
+16 -rwxrwxr-x 1 ad ad 10320 Απρ   3 11:21 p19-treeOfProcesses
+ 8 -rwxrwxr-x 1 ad ad   622 Μάρ  28 18:47 p19-treeOfProcesses.c
+16 -rwxrwxr-x 1 ad ad 11448 Μάρ  28 19:01 p21-myorphan
+ 8 -rwxrwxr-x 1 ad ad   662 Μάρ  28 19:01 p21-myorphan.c
+16 -rwxrwxr-x 1 ad ad 10248 Απρ   2 16:06 p24-wait
+ 8 -rwxrwxr-x 1 ad ad   700 Απρ   2 16:06 p24-wait.c
+12 -rwxrwxr-x 1 ad ad 10352 Απρ   3 20:40 p27-waitpid
+ 4 -rwxrwxr-x 1 ad ad   894 Απρ   3 20:39 p27-waitpid.c
+16 -rwxrwxr-x 1 ad ad 10344 Μάρ  28 12:09 p29-wait-tradi
+ 8 -rwxrwxr-x 1 ad ad   754 Μάρ  28 12:03 p29-wait-tradi.c
+16 -rwxrwxr-x 1 ad ad 10136 Μάρ  28 12:09 p31-zombies
+ 8 -rwxrwxr-x 1 ad ad   403 Απρ  17  2016 p31-zombies.c
+12 -rwxrwxr-x 1 ad ad  9888 Απρ   3 21:37 p36-exec-ls
+ 4 -rwxrwxr-x 1 ad ad   329 Απρ   3 21:37 p36-exec-ls.c
+16 -rwxrwxr-x 1 ad ad 10344 Μάρ  28 12:57 p37-execvp-date
+ 8 -rwxrwxr-x 1 ad ad   857 Μάρ  28 12:57 p37-execvp-date.c
+16 -rwxrwxr-x 1 ad ad 10440 Απρ   2 16:23 p39-bintree
+ 8 -rwxrwxr-x 1 ad ad  1007 Απρ   2 16:23 p39-bintree.c
+16 -rwxrwxr-x 1 ad ad 10512 Απρ   2 16:36 p44-pipes0
+ 8 -rwxrwxr-x 1 ad ad   519 Απρ   2 16:36 p44-pipes0.c
+16 -rwxrwxr-x 1 ad ad 10624 Απρ   2 16:43 p46-pipes1
+ 8 -rwxrwxr-x 1 ad ad   723 Απρ   2 16:43 p46-pipes1.c
+16 -rwxrwxr-x 1 ad ad 10736 Απρ   2 17:03 p48-pipes2
+ 8 -rwxrwxr-x 1 ad ad   889 Απρ   2 17:03 p48-pipes2.c
+16 -rwxrwxr-x 1 ad ad 10616 Απρ   2 17:06 p50-example-pipes
+ 8 -rwxrwxr-x 1 ad ad   742 Απρ  17  2016 p50-example-pipes.c
+16 -rwxrwxr-x 1 ad ad 10480 Απρ   2 17:14 p53-pipes-dup
+ 8 -rwxrwxr-x 1 ad ad   715 Απρ   2 17:13 p53-pipes-dup.c
+20 -rwxrwxr-x 1 ad ad 12560 Απρ   3 10:13 p56-pipesize
+ 8 -rwxrwxr-x 1 ad ad  1001 Απρ   3 10:13 p56-pipesize.c
+16 -rwxrwxr-x 1 ad ad 10744 Απρ   3 11:02 p60-file-pipes-exec
+ 8 -rwxrwxr-x 1 ad ad  1263 Απρ   3 11:02 p60-file-pipes-exec.c
+16 -rwxrwxr-x 1 ad ad 11512 Απρ   3 11:11 p64-demo-trick
+ 8 -rwxrwxr-x 1 ad ad   693 Απρ   3 11:11 p64-demo-trick.c
+16 -rwxrwxr-x 1 ad ad 11664 Απρ   3 11:22 p70-receivemessages
+ 8 -rwxrwxr-x 1 ad ad   707 Απρ   3 11:22 p70-receivemessages.c
+16 -rwxrwxr-x 1 ad ad 11640 Απρ   3 11:24 p72-sendmessages
+ 8 -rwxrwxr-x 1 ad ad   754 Απρ   3 11:24 p72-sendmessages.c
+ 8 -rwxrwxr-x 1 ad ad    13 Σεπ  10  2016 testFile
+ 8 drwxrwxr-x 2 ad ad  4096 Σεπ  10  2016 .tmp
+ 8 -rw-rw-r-- 1 ad ad   213 Απρ   3 11:11 userlist
+16 -rwxrwxr-x 1 ad ad  8774 Σεπ  10  2016 write-portion
+ 8 -rwxrwxr-x 1 ad ad  1183 Σεπ  10  2016 write-portion.c

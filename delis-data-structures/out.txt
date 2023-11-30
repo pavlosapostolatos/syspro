@@ -1,0 +1,89 @@
+COMMAND: i(nsert) studentid lastname firstname zip year gpa
+EXPECTED OUTPUT:
+	- Student |studentid| inserted
+ERROR INDICATION:
+	- Student |studentid| exists;
+
+COMMAND: l(ook-up) studentid
+EXPECTED OUTPUT:
+	- |studentid| |lastname| |firstname| |zip| |year| |gpa|
+ERROR INDICATION:
+	- Student |studentid| does not exist pritn return
+
+COMMAND: d(elete) studentid
+EXPECTED OUTPUT:
+	- Record |studentid| deleted scount
+ERROR INDICATION:
+	- Student |studentid| does not exist
+
+COMMAND: n(umber) year
+EXPECTED OUTPUT:
+	- |count| student(s) in |year|
+ERROR INDICATION:
+	- No students enrolled in |year|
+
+COMMAND: t(op) num year
+EXPECTED OUTPUT:
+	- list(|studentid|)
+ERROR INDICATION:
+	- No students enrolled in |year|
+
+COMMAND: a(verage) year
+EXPECTED OUTPUT:
+	- |avg_gpa|
+ERROR INDICATION:
+	- No students enrolled in |year|
+
+COMMAND: m(inumum) year
+EXPECTED OUTPUT:
+	- list(|studentid|)
+ERROR INDICATION:
+	- No students enrolled in |year|
+
+COMMAND: c(ount)
+EXPECTED OUTPUT:
+	- list({|year|, |count|})
+ERROR INDICATION:
+	- No students are enrolled
+
+COMMAND: p(ostal code) rank
+EXPECTED OUTPUT:
+	- list(|zip|) is/are |rank| most popular
+ERROR INDICATION:
+	- No students are enrolled
+
+COMMAND: e(xit)
+EXPECTED OUTPUT:
+	- exit program
+ERROR INDICATION:
+	- none
+
+	// int nodes=0,count,bestcount;
+	// Student* best;
+	// list people=this->getNthyear(y),temp;
+	// temp=people;
+	// float max=0.0;
+	// if(temp==NULL) return;
+	// for (; temp != NULL; temp = temp->next)
+	// 	nodes++;
+	// if(num>nodes) {cout<<"not enough students"<<endl;return;}
+	// bool* visited=new bool[nodes];
+	// for(int i=0;i<num;i++){
+	// 	max=0.0;
+	// 	count=0;
+	// for(temp=people;temp!=NULL;temp=temp->next){
+	// 	if(visited[count]==0 && temp->student->gpa>max){
+	// 		bestcount=count;
+	// 		max=temp->student->gpa;
+	// 		best=temp->student;
+			
+	// 	}
+	// 	count++;
+	// }
+	// visited[bestcount]=1;
+	// cout<<i<<"th place";
+	// best->printstudent();
+	// cout<<endl;
+	// }
+	// int* grades=new int[nodes];
+	// Student** people=new Student*[nodes];
